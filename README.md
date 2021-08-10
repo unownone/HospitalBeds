@@ -55,3 +55,12 @@ It is used to cancel a booking . Similar to /book request one needs to provide t
         }
 ```
 It returns a response denoting whether it was cancelled or not.
+
+
+# Modules used:
+### Flask
+### Flask-pymongo
+### bcrypt
+
+The project is built on top of python 3.9.6.
+One can freely fork the repo and clone the project and build one on top of this!
